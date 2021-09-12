@@ -53,4 +53,5 @@ There are also some test cases in the "text cases" file in some "410821305_Ax" f
 * A7: 100
 * Algorithm grade: A+
   
-Michael Hsueh 08/31/2021
+## License
+[MIT](LICENSE) © Tsuen Hsueh
